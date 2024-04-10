@@ -20,7 +20,7 @@ public class OlaMundoJava extends JFrame{
         OlaMundoJava h=new OlaMundoJava();
         h.setContentPane(h.painelMain);
         h.setTitle("Hello");
-        h.setBounds(600,200,400,300);
+        h.setBounds(600,200,200,200);
       //  h.setSize(300,400);
         h.setVisible(true);
         h.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
